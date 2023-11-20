@@ -1,0 +1,271 @@
+.panel1{
+    height:37px;
+    background-color:rgb(100, 198, 198);
+    margin-top:15px;
+border-top:0.5px solid orange;
+
+}
+
+.navbar {
+     background-color:#f5f5dc; 
+    height:90px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    /* display:flex;
+ justify-content:space-evenly;
+    align-items:center;   */
+} 
+
+ 
+ .middlepanel a{
+ height:90px;
+/* padding-left:170px;   */
+display:inline;
+/* justify-content:center; */
+margin-left:50px;
+margin-right:70px;
+background-color: #f5f5dc;
+color:orange; 
+text-decoration:none;
+ } 
+
+ 
+/* margin-top:45px;
+   }  */
+ 
+.logo{
+    height:90px;
+    width:170px;
+    background-color: beige;
+    background-image:url(Confectinary.png);
+    background-size: cover;
+    
+}
+
+
+
+
+/* .cart i{
+height:28px; 
+width:28px; */
+/* background-color: blue; */
+
+
+.cart{
+    font-weight:0.85rem;
+    color:orange;
+}
+ .search{
+    color:orange;
+ }
+
+
+
+.hero{
+    height:700px;
+    background-size:cover;
+    background-image: url(hero_image3.jpg);
+
+}
+
+
+.title{
+height:60px;
+background-color:rgb(224, 177, 66);
+display:flex;
+justify-content: center;
+align-items:center;
+color:white;
+font-weight:60px;
+font-size:30px;
+margin-top:15px;
+}
+
+.border{
+    border:2px solid transparent;
+}
+
+.border:hover{
+    border:0.5px solid white;
+    border-radius:0.5px;
+
+}
+
+
+
+ .shop-image{
+height:500px;
+width:230px;
+/* background-image: url(Veg_puff.jpg); */
+background-size: cover;
+/* margin-top:1rem;
+margin-bottom:1rem;
+margin-right:1rem;
+margin-left:1rem; */
+}  
+
+
+
+ .box{
+border:2px solid black;
+height:600px;
+width:20%;
+margin-top:20px;
+display:inline-block;
+padding-left:15px;
+padding-right:15px;
+ }
+
+
+ .shop-content{
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    background-color:#f5f5dc;
+
+ } 
+
+ .shop-section{
+    margin-right:15px;
+    margin-left:15px;
+ }
+
+
+ .panel3{
+
+    height:300px;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+
+ .inside{
+    height:200px;
+    width:1000px;
+    border:2px solid orange;
+   
+
+ }
+.inn{
+    display:flex;
+    align-items: center;
+   justify-content: space-evenly;
+   color:orange;
+}
+ 
+.para{
+    color:rgb(204, 152, 41);
+    font-size:12px;
+}
+ 
+
+ .panellast{
+
+    height:600px;
+background-color:#f5f5dc;
+margin-bottom:15px;
+
+
+ }
+
+
+ .follow{
+height:100px;
+background-color: white;
+display:flex;
+justify-content: center;
+align-items: center;
+
+ }
+
+ .ini{
+    height:70px;
+    width:1000px;
+    border:2px solid orange;
+
+ }
+
+ .homy{
+color:orange;
+font-size:20px;
+font-style:Bold;
+margin-top:70px;
+margin-left:70px;
+}
+
+
+.tagy{
+    display:flex;;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.call{
+    display:inline;
+    
+}
+
+
+.boder{
+    border:0.5px solid brown;
+    height:40px;
+    width:150px;
+
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+.insta i{
+    height:30px;
+    width:30px;
+    color:orange;
+}
+
+.bodybake{
+    margin-right:15px;
+    margin-left:15px;
+    background-color:#f5f5dc;
+}
+
+
+.bakesection
+{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;  
+
+}
+
+
+
+.box1{
+    border:2px solid black;
+    height:600px;
+    width:28%;
+    margin-top:20px;
+    display:inline-block;
+    padding-left:20px;
+    padding-right:20px;
+     }
+
+
+     .shopimg{
+        background-size:cover;
+        height:500px;
+        width:330px;
+     }
+
+     .heading{
+        text-decoration: none;
+     }
+
+
+
+
+ 
+
